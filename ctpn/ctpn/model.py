@@ -1,4 +1,5 @@
-
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import tensorflow as tf
 from  ctpn.ctpn.cfg import Config
 from ctpn.ctpn.other import resize_im

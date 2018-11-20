@@ -5,10 +5,10 @@ import torch
 import torch.utils.data
 from torch.autograd import Variable 
 import numpy as np
-import util
+import crnn.util as util
 import dataset
-import models.crnn as crnn
-import keys
+import crnn.models.crnn as crnn
+import crnn.keys as keys
 from math import *
 import cv2
 GPU = False
