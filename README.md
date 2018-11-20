@@ -1,5 +1,3 @@
-# 坑爹的楼主没改pytorch的代码，别的代码也有问题，很多都不符合规范。还有很多字符问题。.gitignore 也没加还上传些垃圾文件，能不能有点工程素养。
-
 # 经过简单修改，已经能够在mac上运行demo.py（python3.6）
 
 # 本文基于tensorflow、keras/pytorch实现对自然场景的文字检测及端到端的OCR中文文字识别
